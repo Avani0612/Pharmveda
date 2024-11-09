@@ -1,5 +1,5 @@
 
-Welcome to my React and Node tutorial, where we'll construct a dynamic food delivery app using the MERN stack (MongoDB, ExpressJS, React, and Node.JS). This tutorial guides you through each step, from setting up MongoDB as our database to crafting user interfaces with React and implementing server-side logic with Node.JS and ExpressJS. Our aim is to provide a comprehensive understanding of how these technologies come together to create a feature-rich food delivery app named "Foodie."
+Welcome to my React and Node tutorial! In this guide, we’ll build a full-featured food delivery application using the MERN stack: MongoDB, ExpressJS, React, and Node.js. We’ll walk through each stage, starting with MongoDB for our database setup, then creating engaging user interfaces with React, and finally developing the backend logic with Node.js and ExpressJS. By the end of this tutorial, 
 ## You Will Learn
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
