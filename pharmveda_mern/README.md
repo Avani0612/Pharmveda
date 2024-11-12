@@ -1,5 +1,5 @@
 
-Welcome to my React and Node tutorial! In this guide, we’ll build a full-featured food delivery application using the MERN stack: MongoDB, ExpressJS, React, and Node.js. We’ll walk through each stage, starting with MongoDB for our database setup, then creating engaging user interfaces with React, and finally developing the backend logic with Node.js and ExpressJS. By the end of this tutorial, 
+Welcome to my React and Node tutorial! In this guide, we’ll build a full-featured medicinedelivery application using the MERN stack: MongoDB, ExpressJS, React, and Node.js. We’ll walk through each stage, starting with MongoDB for our database setup, then creating engaging user interfaces with React, and finally developing the backend logic with Node.js and ExpressJS. By the end of this tutorial, 
 ## You Will Learn
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
