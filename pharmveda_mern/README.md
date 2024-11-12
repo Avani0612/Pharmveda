@@ -8,15 +8,15 @@ Welcome to my React and Node tutorial! In this guide, we’ll build a full-featu
 - Node & Express: Web API, Body Parser, File Upload, JWT
 - MongoDB: Mongoose, Aggregation
 - Development: ESLint, Babel, Git, Github,  
-- Deployment: Heroku
+  
 
 ## Run Locally
 
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/mern-foodie.git
-$ cd mern-foodie
+$ https://github.com/Avanisrepositories/Pharmveda.git
+$ cd pharmveda_mern
 ```
 
 ### 2. Create .env File
