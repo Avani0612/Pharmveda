@@ -15,7 +15,7 @@ Welcome to my React and Node tutorial! In this guide, we’ll build a full-featu
 ### 1. Clone repo
 
 ```
-$ https://github.com/Avanisrepositories/Pharmveda.git
+$ gh repo clone Avanisrepositories/Pharmveda
 $ cd pharmveda_mern
 ```
 
