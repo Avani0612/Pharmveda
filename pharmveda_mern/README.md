@@ -1,5 +1,5 @@
 
-Welcome to my React and Node tutorial! In this guide, we’ll build a full-featured medicinedelivery application using the MERN stack: MongoDB, ExpressJS, React, and Node.js. We’ll walk through each stage, starting with MongoDB for our database setup, then creating engaging user interfaces with React, and finally developing the backend logic with Node.js and ExpressJS. By the end of this tutorial, 
+ we’ll build a full-featured medicinedelivery application using the MERN stack: MongoDB, ExpressJS, React, and Node.js. We’ll walk through each stage, starting with MongoDB for our database setup, then creating engaging user interfaces with React, and finally developing the backend logic with Node.js and ExpressJS. By the end of this tutorial, 
 ## You Will Learn
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
@@ -27,7 +27,7 @@ $ cd pharmveda_mern
 
 - Local MongoDB
   - Install it from [here](https://www.mongodb.com/try/download/community)
-  - In .env file update MONGODB_URI=mongodb://localhost/foodie
+  
 - OR Atlas Cloud MongoDB
   - Create database at [https://cloud.mongodb.com](https://cloud.mongodb.com)
   - In .env file update MONGODB_URI=mongodb+srv://your-db-connection
